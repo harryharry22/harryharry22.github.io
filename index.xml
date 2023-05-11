@@ -8,6 +8,15 @@
     <language>en-gb</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://harryharry22.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>SecondBlog</title>
+      <link>https://harryharry22.github.io/blog/secondblog/</link>
+      <pubDate>Thu, 11 May 2023 08:09:40 +0700</pubDate>
+      
+      <guid>https://harryharry22.github.io/blog/secondblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>https://harryharry22.github.io/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
